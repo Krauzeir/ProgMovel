@@ -1,0 +1,34 @@
+{
+    "empresas": [
+        {
+            "_id": 1, 
+            "name": "Fumetsu no Anata e (To Your Eternity)",
+            "avatar": "chillibean.jpeg"
+        },
+        {
+            "_id": 2, 
+            "name": "Tokyo Revengers",
+            "avatar": "rayban.jpeg"
+        },
+        {
+            "_id": 3, 
+            "name": "Vivy – Fluorite Eye’s Song",
+            "avatar": "hstern.jpeg"
+    },
+        {
+            "_id": 4, 
+            "name": "Mars Red",
+            "avatar": "boticario.jpeg"
+        },
+        {
+            "_id": 5, 
+            "name": "Mashiro no Oto",
+            "avatar": "arezzo.jpeg"
+    },
+        {
+            "_id": 6, 
+            "name": "Koi to Yobu ni wa Kimochi Warui",
+            "avatar": "dafiti.jpeg"
+        }        
+    ]
+}
